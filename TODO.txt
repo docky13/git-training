@@ -18,3 +18,5 @@ Technologies web:
 -Wicket
 -Struts 2
 -JSFgit
+Application lourde
+Technologie Swing
